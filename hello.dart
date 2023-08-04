@@ -1,6 +1,6 @@
 void main() {
-  const int a = 19;
-  const int b = 4;
+  const int a = 7;
+  const int b = 3;
 
   /// Addition
   int addition = a + b;
